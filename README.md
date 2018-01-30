@@ -1,3 +1,5 @@
+**Not maintained. Suggest taking a look at [metalsmith-webpack-suite](https://github.com/axe312ger/metalsmith-webpack-suite) for example of integrating Metalsmith and Webpack.**
+
 # metalsmith-webpack2
 
 A [webpack 2][webpack] plugin for [Metalsmith][metalsmith].
